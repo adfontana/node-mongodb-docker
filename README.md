@@ -6,9 +6,12 @@ REST API using NodeJS, MongoDB and Docker to create a containerized application.
 
 This app was created following all the steps in [Docker docs](https://docs.docker.com/language/nodejs/).
 
-## Requirements
+## Prerequisites
 - [Node.js](https://nodejs.org/en/)
 - [Docker](https://docs.docker.com/engine/install/)
+
+## Install
+    npm install
 
 ## Usage
 Start the application with [Docker Compose](https://docs.docker.com/compose/), run: 
